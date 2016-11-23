@@ -12,3 +12,6 @@ C:\Users\olli\documents\visual studio 2015\Projects\ÄlyTaloWpf\ÄlyTaloWpf\obj\
 C:\Users\olli\documents\visual studio 2015\Projects\ÄlyTaloWpf\ÄlyTaloWpf\obj\Debug\ÄlyTaloWpf.exe
 C:\Users\olli\documents\visual studio 2015\Projects\ÄlyTaloWpf\ÄlyTaloWpf\obj\Debug\ÄlyTaloWpf.pdb
 C:\Users\olli\documents\visual studio 2015\Projects\ÄlyTaloWpf\ÄlyTaloWpf\obj\Debug\ÄlyTaloWpf.csprojResolveAssemblyReference.cache
+C:\Users\Olli\Source\Repos\AlyTaloSovellus\ÄlyTaloWpf\ÄlyTaloWpf\bin\Debug\ÄlyTaloWpf.exe.config
+C:\Users\Olli\Source\Repos\AlyTaloSovellus\ÄlyTaloWpf\ÄlyTaloWpf\obj\Debug\ÄlyTaloWpf.exe
+C:\Users\Olli\Source\Repos\AlyTaloSovellus\ÄlyTaloWpf\ÄlyTaloWpf\obj\Debug\ÄlyTaloWpf.pdb
