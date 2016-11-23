@@ -1,0 +1,2 @@
+# AlyTaloSovellus
+C# ohjelmointi harjoitustyo
